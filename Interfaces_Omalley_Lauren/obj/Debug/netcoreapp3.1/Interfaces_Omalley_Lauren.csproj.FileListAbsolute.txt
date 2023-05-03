@@ -1,0 +1,13 @@
+C:\Users\lauren.omalley\source\repos\Interfaces_Omalley_Lauren\Interfaces_Omalley_Lauren\bin\Debug\netcoreapp3.1\Interfaces_Omalley_Lauren.exe
+C:\Users\lauren.omalley\source\repos\Interfaces_Omalley_Lauren\Interfaces_Omalley_Lauren\bin\Debug\netcoreapp3.1\Interfaces_Omalley_Lauren.deps.json
+C:\Users\lauren.omalley\source\repos\Interfaces_Omalley_Lauren\Interfaces_Omalley_Lauren\bin\Debug\netcoreapp3.1\Interfaces_Omalley_Lauren.runtimeconfig.json
+C:\Users\lauren.omalley\source\repos\Interfaces_Omalley_Lauren\Interfaces_Omalley_Lauren\bin\Debug\netcoreapp3.1\Interfaces_Omalley_Lauren.runtimeconfig.dev.json
+C:\Users\lauren.omalley\source\repos\Interfaces_Omalley_Lauren\Interfaces_Omalley_Lauren\bin\Debug\netcoreapp3.1\Interfaces_Omalley_Lauren.dll
+C:\Users\lauren.omalley\source\repos\Interfaces_Omalley_Lauren\Interfaces_Omalley_Lauren\bin\Debug\netcoreapp3.1\Interfaces_Omalley_Lauren.pdb
+C:\Users\lauren.omalley\source\repos\Interfaces_Omalley_Lauren\Interfaces_Omalley_Lauren\obj\Debug\netcoreapp3.1\Interfaces_Omalley_Lauren.csproj.AssemblyReference.cache
+C:\Users\lauren.omalley\source\repos\Interfaces_Omalley_Lauren\Interfaces_Omalley_Lauren\obj\Debug\netcoreapp3.1\Interfaces_Omalley_Lauren.AssemblyInfoInputs.cache
+C:\Users\lauren.omalley\source\repos\Interfaces_Omalley_Lauren\Interfaces_Omalley_Lauren\obj\Debug\netcoreapp3.1\Interfaces_Omalley_Lauren.AssemblyInfo.cs
+C:\Users\lauren.omalley\source\repos\Interfaces_Omalley_Lauren\Interfaces_Omalley_Lauren\obj\Debug\netcoreapp3.1\Interfaces_Omalley_Lauren.csproj.CoreCompileInputs.cache
+C:\Users\lauren.omalley\source\repos\Interfaces_Omalley_Lauren\Interfaces_Omalley_Lauren\obj\Debug\netcoreapp3.1\Interfaces_Omalley_Lauren.dll
+C:\Users\lauren.omalley\source\repos\Interfaces_Omalley_Lauren\Interfaces_Omalley_Lauren\obj\Debug\netcoreapp3.1\Interfaces_Omalley_Lauren.pdb
+C:\Users\lauren.omalley\source\repos\Interfaces_Omalley_Lauren\Interfaces_Omalley_Lauren\obj\Debug\netcoreapp3.1\Interfaces_Omalley_Lauren.genruntimeconfig.cache
